@@ -1,4 +1,4 @@
-# 🤖 Takeshi Bot
+# 🤖 Takeshi Bot Traducido de https://github.com/guiireal/takeshi-bot
 
 <div align="center">
     <img src="./assets/images/takeshi-bot.png" width="500">
