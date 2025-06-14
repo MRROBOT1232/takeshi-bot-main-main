@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Christopher Morgan",
+    "libro": "Pecados Placenteros",
+    "descripcion": "Empresario dominante, con un pasado oscuro y una personalidad fuerte.",
+    "imagen": "https://concentra.com.ar/wp-content/uploads/como-se-llama-christopher-morgan-en-la-vida-real.webp",
+    "precio": 15000
+  },
+  {
+    "nombre": "Rachel James",
+    "libro": "Pecados Placenteros",
+    "descripcion": "Joven fuerte y decidida, que enfrenta los retos del amor y la vida.",
+    "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wattpad.com%2F1205706746-las-hermanas-james-personajes&psig=AOvVaw0Km4dP_xfSawGKn-13by7G&ust=1747698161934000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOClq5SZro0DFQAAAAAdAAAAABAE",
+    "precio": 12000
+  }
+]
