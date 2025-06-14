@@ -12,12 +12,12 @@ exports.BOT_NAME = "Mr.Bot";
 // Número do bot. Coloque o número do bot
 // (apenas números, exatamente como está no WhatsApp).
 // Se o seu DDD não for de SP ou do Rio, não coloque o 9 antes do número.
-exports.BOT_NUMBER = "51904943669";
+exports.BOT_NUMBER = "51987654321";
 
 // Número do dono do bot. Coloque o número do dono do bot
 // (apenas números, exatamente como está no WhatsApp).
 // Se o seu DDD não for de SP ou do Rio, não coloque o 9 antes do número.
-exports.OWNER_NUMBER = "51904943669";
+exports.OWNER_NUMBER = "51987654321";
 
 // Diretório dos comandos
 exports.COMMANDS_DIR = path.join(__dirname, "commands");
